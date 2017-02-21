@@ -1,11 +1,9 @@
+/*
+ * 
+ */
 import java.util.Collections;
 import java.util.List;
 
-/*
- * CS111-010
- * Programming Assignment 1
- * Jason Huffman
- */
 public abstract class Employee {
 
 	

@@ -1,7 +1,5 @@
 /*
- * CS111-010
- * Programming Assignment 1
- * Jason Huffman
+ * 
  */
 public class Commission extends Employee{
 
